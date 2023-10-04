@@ -1,0 +1,68 @@
+[
+    {
+        "id":"1",
+        "image":"https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg",
+        "title":"Apple",
+        "description":"Apples are among the world's most popular fruits. They grow on the apple tree (Malus domestica), originally from Central Asia. Apples are high in fiber, vitamin C, and various antioxidants. They are also very filling, considering their low calorie count.",
+        "calories":"52",
+        "sodium":"1 mg",
+        "potassium":"107 mg",
+        "carbohydrate":"14 g",
+        "protein":"0.3 g"
+    },
+    {
+        "id":"2",
+        "image":"https://marketbasketfoods.com/wp-content/uploads/2014/02/oranges-01.jpg",
+        "title":"Orange",
+        "description":"The fruit of the orange tree can be eaten fresh, or processed for its juice or fragrant peel. As of 2012, sweet oranges accounted for approximately 70% of citrus production. In 2019, 79 million tonnes of oranges were grown worldwide, with Brazil producing 22% of the total, followed by China and India.",
+        "calories":" 47",
+        "sodium":"0 mg",
+        "potassium":"181 mg",
+        "carbohydrate":"12 g",
+        "protein":"0.9 g"
+    },
+    {
+        "id":"3",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSURc5rdYwv_oEdpouINMiW3ksl_bOvmFVSjg&usqp=CAU",
+        "title":"Banana",
+        "description":"A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas.",
+        "calories":" 89",
+        "sodium":"1 mg",
+        "potassium":"358 mg",
+        "carbohydrate":"23 g",
+        "protein":"1.1 g"
+    },
+    {
+        "id":"4",
+        "image":"https://www.fruit-powered.com/wp-content/uploads/2014/04/Pineapple-whole-and-sliced.jpg",
+        "title":"Pineapple",
+        "description":"Pineapple is native to tropical and subtropical America and has been introduced elsewhere. The fruit has become a characteristic ingredient in the meat, vegetable, fish, and rice dishes of what is loosely termed Pan-Asian cuisine. The fruit is eaten fresh where available and in canned form worldwide.",
+        "calories":" 50",
+        "sodium":"1 mg",
+        "potassium":"109 mg",
+        "carbohydrate":"13 g",
+        "protein":"0. g"
+    },
+    {
+        "id":"5",
+        "image":"https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg",
+        "title":"Strawberry",
+        "description":"The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.",
+        "calories":" 32",
+        "sodium":"168 mg",
+        "potassium":"522 mg",
+        "carbohydrate":"19 g",
+        "protein":"0.67 g"
+    },
+    {
+        "id":"6",
+        "image":"https://static.tnfoodie.in/photo/89887133.cms",
+        "title":"Mango",
+        "description":"It's a drupe, or stone fruit, which means that it has a large seed in the middle. Mango is native to India and Southeast Asia, and people have cultivated it for over 4,000 years. Hundreds of types of mango exist, each with its own characteristic taste, shape, size, and color ( 1 , 2 ).",
+        "calories":" 32",
+        "sodium":"5 mg",
+        "potassium":"168 mg",
+        "carbohydrate":"17 g",
+        "protein":"0.40 g"
+    }
+]
