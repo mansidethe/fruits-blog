@@ -1,0 +1,12 @@
+.blog-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.fruit-text{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 300;
+}

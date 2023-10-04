@@ -1,0 +1,27 @@
+.preview-post-card{
+    border: 1px solid black;
+    margin: 20px;
+    box-shadow: 0 1px 10px 1px gray;
+    padding-left: 20px;
+    height: 500px;
+    width: 400px;
+}
+.fruit-image{
+    width: 350px;
+    height: 350px;
+}
+.card-title{
+    text-align: center;
+   margin-bottom: 60px;
+
+}
+.link{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: fit-content;
+    text-decoration: none;
+ font-size: 20px;
+    color: black;
+}
+
